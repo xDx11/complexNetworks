@@ -1,0 +1,13 @@
+{
+  "name": "complexnet",
+  "version": "1.0.0",
+  "description": "Complex Networks Frontend Part",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radek Soucek",
+  "license": "ISC"
+}
